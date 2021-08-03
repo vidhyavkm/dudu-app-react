@@ -1,0 +1,25 @@
+.Vote{
+  padding: 3rem;
+  width: 15rem;
+  border-radius: 5rem ;
+}
+.specs{
+  list-style: none;
+}
+.brands{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+.brand-model{
+  color:darkblue;
+}
+body{
+  background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.logo{
+  width:10rem;
+  height:8rem;
+  text-align: center;
+}
